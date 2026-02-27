@@ -1,0 +1,39 @@
+{
+  "name": "my-openclaw",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview",
+    "lint": "vue-tsc --noEmit && eslint . --ext js,ts,vue --report-unused-disable-directives --max-warnings 0"
+  },
+  "dependencies": {
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.5",
+    "vuex": "^4.1.0",
+    "naive-ui": "^2.0.0",
+    "axios": "^1.6.0",
+    "mockjs": "^1.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.1",
+    "@vue/cli-plugin-router": "^5.0.7",
+    "@vue/cli-plugin-vuex": "^5.0.7",
+    "@vue/compiler-sfc": "^3.3.4",
+    "@vue/eslint-config-typescript": "^11.0.0",
+    "@vue/eslint-config-prettier": "^9.0.0",
+
+
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
+    "eslint": "^8.41.0",
+    "eslint-plugin-vue": "^9.18.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "prettier": "^3.0.0",
+    "typescript": "^5.0.2",
+    "vite": "^5.0.0",
+    "vue-tsc": "^2.0.0",
+    "windicss": "^3.0.0"
+  }
+}
