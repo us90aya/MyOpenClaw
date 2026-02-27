@@ -105,7 +105,7 @@ npm run preview
 ### 线上访问
 项目已部署到 GitHub Codespace：
 
-**公网访问链接**：[https://expert-train-r766pvwq5v92p44j-18789.app.github.dev](https://expert-train-r766pvwq5v92p44j-18789.app.github.dev)
+**公网访问链接**：[https://expert-train-r766pvwq5v92p44j-3000.app.github.dev](https://expert-train-r766pvwq5v92p44j-3000.app.github.dev)
 
 支持手机端访问，UI 会自动适配屏幕尺寸。
 
